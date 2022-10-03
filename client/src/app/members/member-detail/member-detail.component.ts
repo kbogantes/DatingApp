@@ -29,7 +29,7 @@ export class MemberDetailComponent implements OnInit {
       }
     ]
 
-    
+
   }
 
   getImages(): NgxGalleryImage[]{
